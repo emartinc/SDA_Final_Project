@@ -1,42 +1,103 @@
-# SDA_Final_Project
+# Jekyll Serif Theme
 
-The deliverables for the Final project are
+Serif is a modern business theme for Jekyll. It contains multiple content types for a typical brochure/marketing website. The theme is fully responsive, blazing fast and artfully illustrated.
 
-A website with your visualizations and accompanying text. I recommend you structure it as one of the key types of data story (cf. the Segel paper). The website should tell the story about the data that you're interested in getting across.
+[Live Demo](https://jekyll-serif.netlify.app/) |
+[Zerostatic Themes](https://www.zerostatic.io)
 
-- The website should contain visualizations to let the reader explore the data that you're interested in getting across. Some them should be interactive.
-Your analysis behind the scenes can be technical and as advanced as you like (in fact the goal is to show you can combine data analysis, machine learning, and data visualization), but the website itself should not be technical, but rather aim at using visualization and explanation to get your data driven insights across to a non-scientific reader (think of a friend from DTU who hasn't taken this class as the audience).
+<a href="https://www.buymeacoffee.com/zerostatic" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
-The idea is that you can create much more complex, dynamic and interactive analysis (and visualizations) using the dynamic possibilities that a website affords. It is a way for you to present your work in a way that everyone can understand it (like something you could show your parents).
+![Jekyll Serif Theme screenshot](https://www.zerostatic.io/theme/jekyll-serif/jekyll-serif-screenshot.png)
 
-An explainer Jupyter Notebook. The explainer notebook should contain all the behind the scenes data-analysis stuff, details on the dataset, why you've selected these particular visualizations, explanations methodology, etc.
+### Theme features
 
-More about the website
-The main point of the website is to present your idea/analyses to the world in a way that showcases your use of what you've learned in class. The website should be self-contained and tell the story without the need for the details in the explainer notebook (the purpose of the explainer notebook is to provide additional details for interested/scientific readers).
+- Jekyll 4.2+
+- Netlify & Github Pages ready
+- Services (Collection)
+- Team (Collection)
+- Features (Data)
+- SCSS
+- 100% Responsive design, animated hamburger and mobile slide in menu
+- Bootstrap 4.6 - _Only the bootstrap grid and utilites are imported by default. If you want to use more of the Boostrap library you can uncomment the `@import` in `style.scss`_
+- 100/100 Google Lighthouse speed score
+- 100/100 Google Lighthouse seo score
+- 100/100 Google Lighthouse accessibility score
+- 100/100 Google Lighthouse best practices score
+- Under 50KB without images or 80KB with images and illustrations ⚡
+- Under 20KB without Google fonts ⚡⚡⚡
+- Robust example content included
+- Royalty free illustrations included
 
-More on the explainer notebook
-The notebook should contain your analysis and code. Please structure it into the following sections
+## Installation
 
-1. Motivation.
-- What is your dataset?
-- Why did you choose this/these particular dataset(s)?
-- What was your goal for the end user's experience?
-2. Basic stats. Let's understand the dataset better
-- Write about your choices in data cleaning and preprocessing
-- Write a short section that discusses the dataset stats, containing key points/plots from your exploratory data analysis.
-3. Data Analysis
-- Describe your data analysis and explain what you've learned about the dataset.
-- If relevant, talk about your machine-learning.
-4. Genre. Which genre of data story did you use?
-- Which tools did you use from each of the 3 categories of Visual Narrative (Figure 7 in Segal and Heer). Why?
-- Which tools did you use from each of the 3 categories of Narrative Structure (Figure 7 in Segal and Heer). Why?
-5. Visualizations.
-- Explain the visualizations you've chosen.
-- Why are they right for the story you want to tell?
-6. Discussion. Think critically about your creation
-- What went well?,
-- What is still missing? What could be improved?, Why?
-7. Contributions. Who did what?
-- You should write (just briefly) which group member was the main responsible for which elements of the assignment. (I want you guys to understand every part of the assignment, but usually there is someone who took lead role on certain portions of the work. That's what you should explain).
-- It is not OK simply to write "All group members contributed equally".
-8. Make sure that you use references when they're needed and follow academic standards.
+### Installing Ruby & Jekyll
+
+If this is your first time using Jekyll, please follow the [Jekyll docs](https://jekyllrb.com/docs/installation/) and make sure your local environment (including Ruby) is setup correctly.
+
+### Installing Theme
+
+Download or clone the theme.
+
+To run the theme locally, navigate to the theme directory and run:
+
+```
+bundle install
+```
+
+To start the Jekyll local development server.
+
+```
+bundle exec jekyll serve
+```
+
+To build the theme.
+
+```
+bundle exec jekyll build
+```
+
+## Deployment
+
+### Netlify
+
+Use Netlify to deploy this theme. This theme contains a valid and tested `netlify.toml` - Feel free to use the 1-click deploy below.
+
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/zerostaticthemes/jekyll-serif-theme)
+
+### Github Pages
+
+This theme has been tested to work with Github Pages (and Github Project Pages). When using Github Pages you will need to update the `baseurl` in the `_config.yml` otherwise all the css, images and paths will be broken.
+
+For example the site https://zerostaticthemes.github.io/jekyll-serif-theme would have `baseurl: "/jekyll-serif-theme/"`
+
+## Extras
+
+### License
+
+- You cannot create ports of this theme
+- You cannot re-sell this theme
+
+### Credits
+
+- Beautiful royalty free Illustrations by Icons8 - https://icons8.com/illustrations/style--pixeltrue
+- Stock images by Unsplash - https://unsplash.com/
+- Feature icons by Noun Project - https://thenounproject.com/
+
+## Support My Work
+
+I've been building open source themes for all the main static site generators for over 4 years now. My premium themes allow me to continue to allocate time to maintain, improve and build new open source themes.
+
+1. Leave a star ⭐🙏🏻
+2. Make a contribution to this theme, add a feature, fix a bug, nothing is to small 
+2. Mention this theme on twitter [@zerostaticio](https://twitter.com/zerostaticio) 📢
+3. Purchase a premium theme 🔥
+
+### All Jekyll Themes by Zerostatic
+
+- [Jekyll Serif (Open Source)](https://www.zerostatic.io/theme/jekyll-serif/)
+- [Jekyll Atlantic (Open Source)](https://www.zerostatic.io/theme/jekyll-atlantic/)
+- [Jekyll Advance (Premium)](https://www.zerostatic.io/theme/jekyll-advance/)
+- [Jekyll Origin (Premium)](https://www.zerostatic.io/theme/jekyll-origin/)
+- [Jekyll Curate (Premium)](https://www.zerostatic.io/theme/jekyll-curate/)
+
+🇦🇺 **Made in Australia** by Robert Austin
