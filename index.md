@@ -7,7 +7,19 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: true
 show_call_box: true
 ---
+# How Safe Are NYC Streets?
+## A Data-Driven Look at Traffic and Weather in 2017
 
-# Serif - A Jekyll Business Theme.
+On a cold January morning in New York City, a pedestrian crosses the street in Brooklyn. A few hours later, a cyclist is hit in Queens. By the time the day ends, hundreds of crashes have occurred across the five boroughs, just another day in the city that never sleeps.
 
-Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+Traffic accidents are a part of daily life in NYC. But how often do they really happen? And do certain conditions, like the time of day or the weather, make them more likely?
+
+In this story, we dive into real-world data from 2017 to uncover the hidden patterns behind the chaos. We’ll look at:
+
+Which boroughs see the most accidents and fatalities
+What time of day roads become most dangerous
+How weather, from rain to snow, might play a role
+The goal? To understand how environment, behavior, and timing all intersect on NYC’s busy streets. Along the way, you’ll find interactive charts and maps that let you explore the patterns yourself.
+
+So buckle up, we’re about to take a data-driven ride through the streets of New York.
+
