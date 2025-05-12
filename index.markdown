@@ -15,7 +15,7 @@ To explore these questions, we’ll take a closer look at traffic accidents in N
 ## Accidents throughout the years...
 
 <figure class="figure-wrapper">
-  <img src="/assets/images/accidents_per_year.png" alt="Accidents Per Year">
+  <img src="{{ site.baseurl }}/assets/images/accidents_per_year.png" alt="Accidents Per Year">
   <figcaption class="figure-caption">Figure 1: Accidents per year</figcaption>
 </figure>
 
