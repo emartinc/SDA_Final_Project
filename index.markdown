@@ -69,11 +69,11 @@ The relationship between weather conditions and traffic accidents in New York du
 
 In terms of temperature, there is no clear link between warmer and colder months and the number of accidents. Although the highest temperatures occur in July and August, accident rates are relatively low during these months. In contrast, May and June, which mark the start of the warmer season, show the highest accident rates. This might be due to increase activity or traffic density before summer holidays begin, but overall, temperature alone does not appear to be a strong predictor of accidents. 
 
-In terms of precipitation, there is some alignment during the early months of the year. February, March and April have their levels of precipitation matching  with the number of accidents. However, this pattern does not hold throughout the year. For example, July, one of the driest months, still shows elevated accident levels, suggesting that rainfall may influence risk, but only in combination with other factors. 
+Regarding precipitation, there is some alignment during the early months of the year. February, March and April have their levels of precipitation matching  with the number of accidents. However, this pattern does not hold throughout the year. For example, July, one of the driest months, still shows elevated accident levels, suggesting that rainfall may influence risk, but only in combination with other factors. 
 
-In terms of cloud coverage, there is a more consistent pattern. Months with lower cloud cover, such as June and July, have higher accident rates. This could indicate that clearer skies invite more driving, faster speeds or lower perceived risk, potentially leading to more accidents.
+With cloud coverage, there is a more consistent pattern. Months with lower cloud cover, such as June and July, have higher accident rates. This could indicate that clearer skies invite more driving, faster speeds or lower perceived risk, potentially leading to more accidents.
 
-In terms of wind speed, a similar inverse relationship is observed. Months with higher average wind speeds, such as March and April tend to have fewer accidents, while calmer months like May and June coincide with more accidents. One possible explanation is that adverse wind conditions may make drivers more cautious or reduce overall traffic volume. 
+Concerning wind speed, a similar inverse relationship is observed. Months with higher average wind speeds, such as March and April tend to have fewer accidents, while calmer months like May and June coincide with more accidents. One possible explanation is that adverse wind conditions may make drivers more cautious or reduce overall traffic volume. 
 
 Overall, while none of the weather variables alone can fully explain the fluctuations in accident rates, their interaction with human behavior, including travel patters, perceived road safety and seasonal routines, likely plays a critical role. 
 
