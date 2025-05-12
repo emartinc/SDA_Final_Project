@@ -29,7 +29,7 @@ subtitle:  Exploring the Link Between Weather and Traffic Accidents: A Data-Driv
     box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
   }
 </style>
-
+---
 
 Every year, an estimated 1.19 million people lose their lies in road traffic accidents, while another 20 to 50 million suffer non-fatal injuries. Many of them resulting in long-term disabilities. From a young age, we’re taught the golden rules of safe driving: don’t drink and drive, obey speed limits and avoid getting behind the wheel during bad weather. But how much truth is there to that las piece of advice? Is it really unsafe to drive in the rain or snow, or do we just assume it is? And when an accident happen, who or what is truly at fault? Is it human error: speeding, distraction, poor decisions, bad infrastructures, or does the weather itself play a more significant role than we thing. In what ways does weather influence traffic accidents.
 
@@ -81,6 +81,4 @@ In terms of wind speed, a similar inverse relationship is observed. Months with 
 Overall, while none of the weather variables alone can fully explain the fluctuations in accident rates, their interaction with human behavior, including travel patters, perceived road safety and seasonal routines, likely plays a critical role. 
 
 
-
-
-change....
+---
