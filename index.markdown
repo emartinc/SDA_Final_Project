@@ -12,7 +12,7 @@ Every year, an estimated 1.19 million people lose their lives in road traffic ac
 
 To explore these questions, we’ll take a closer look at traffic accidents in New York City and their relationship with weather conditions. The goal is to understand whether these incidents are primarily dirven by human factors or significantly influenced by external forces like the weather. New York is an ideal case study. It experiences a wide range of weather conditions, from heavy snowfall in winter to hot, humid summers. Combined with its dense population and fast-paced urban life, the city provides a rich dataset that allows us to examine both environmental and human variables in a complex, high-pressure setting. Its chaotic and highly populated nature makes it the pefect environment to observe how weather and human behavior intersect on the road. 
 
-## Accidents throughout the years...
+## Are we getting safer? A look at the accident trends.
 
 <figure class="figure-wrapper">
   <img src="{{ site.baseurl }}/assets/images/accidents_per_year.png" alt="Accidents Per Year">
@@ -20,6 +20,7 @@ To explore these questions, we’ll take a closer look at traffic accidents in N
 </figure>
 
 When looking at traffic accidents by year, 2017 clearly stands out as the peak, recording the highest number of incidents. From 2012 to 2017, the number of traffic accidents increased, with its highest poing in 2017. After that peak, the numbers begin to decline, with a small  drop in 2018 and 2019. Then, in 2020 there is a noticeable decrease, like influenced by the COVID-19 pandemic and related lockdowns, which heavily influenced urban mobility, prob. From 2021 to 2024, accident numbers continued to fall, though at a more stable rate, reaching similar levels to 2012. The change of traffic accidents from 2021 to 2024 is probably influenced by commuting behavior, remote work, and fewer vehicles on the road due to the pandemic. 
+
 ## Traffic fatalities
 When looking at traffic fatalities by year, 2017 stands out with a notably high number of deaths, reinforcing its relevance as a key year for analysis. Interestingly, there are also spikes in fatalities in 2013 and during the pandemic years, particularly between 2021 and 2023, despite the fact that the total number of accidents was significantly lower during that period. In 2024, fatalities drop slightly, but the decrease is minimal. 
 
