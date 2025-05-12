@@ -39,7 +39,7 @@ To better understand where accidents are most concentrated within the city, we t
 
 <figure class="figure-wrapper" style="text-align: center;">
   <iframe 
-    src="{{ site.baseurl }}/assets/images/accidents_borough.html" 
+    src="{{ site.baseurl }}/assets/images/accidents_borough1.html" 
     width="100%" 
     height="600" 
     style="border: none; display: inline-block; margin: 0 auto;">
