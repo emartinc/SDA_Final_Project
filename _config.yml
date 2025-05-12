@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: How Safe Are NYC Streets?
+title: Is It Just Bad Driving - or is the Weather to Blame?
 email: estelamartincebrian@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Using data visualization to explore how accidents correlate with location, time and weather.
