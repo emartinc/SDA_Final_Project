@@ -41,10 +41,10 @@ To better understand where accidents are most concentrated within the city, we t
   <iframe 
     src="{{ site.baseurl }}/assets/images/accidents_choropleth.html" 
     width="100%" 
-    height="700" 
-    style="border: none; max-width: 100%; display: block; margin: 0 auto;">
+    height="600" 
+    style="border: none; display: inline-block; margin: 0 auto;">
   </iframe>
-  <figcaption class="figure-caption">
+  <figcaption class="figure-caption" style="text-align: center;">
     Figure 3: Number of Traffic Accidents by NY Borough (2017–2018)
   </figcaption>
 </figure>
