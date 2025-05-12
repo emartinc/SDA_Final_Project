@@ -73,16 +73,13 @@ Additionally, the unexpected spike around 9 PM could be linked to post-dinner ac
 
 ## A Year of Weather in NYC: Setting the Scene for Traffic Analysis
 
-<figure class="figure-wrapper">
-  <img src="{{ site.baseurl }}/assets/images/average_temp_month.png" alt="Temperature per month">
-  <figcaption class="figure-caption">Figure 5: .</figcaption>
-</figure>
+
 
 The climate in New York throughout 2017 and 2018 shows clear seasonal variation. Temperatures are highest from June to September, with July and August reaching peak averages of 25.1ºC and 24.5ºC, respectively. On the other end, the coldest months fall between December and March, with January averaging as low as 0.5ºC. The transitional months, April, May, October and November, present moderate temperatures. 
 
 <figure class="figure-wrapper">
-  <img src="{{ site.baseurl }}/assets/images/precipitation_month.png" alt="Precipitation per month">
-  <figcaption class="figure-caption">Figure 6: .</figcaption>
+  <img src="{{ site.baseurl }}/assets/images/precipitation_month.png" alt="Accidents Per Year">
+  <figcaption class="figure-caption">Figure 1: Traffic Accidents per year spanning from 2012 to 2024.</figcaption>
 </figure>
 
 In terms of precipitation, March stands out as the month with most snow, followed by January and February, making the core of winter. There’s also a peak in snowfall in November and December, indicating the onset of colder conditions. During the summer months and the months prior and after it, snowfall drops to zero. 
