@@ -23,6 +23,11 @@ When looking at traffic accidents by year, 2017 clearly stands out as the peak, 
 
 ## A Curious Disconnect: Fewer Accidents, More Fatalities?
 
+<figure class="figure-wrapper">
+  <iframe src="{{ site.baseurl }}/assets/images/deaths_per_year.html" width="1000" height="800" frameborder="0"></iframe>
+  <figcaption class="figure-caption">Figure 2: Fatalities per year (2012 - 2024)</figcaption>
+</figure>
+
 When looking at traffic fatalities by year, 2017 stands out with a notably high number of deaths, reinforcing its relevance as a key year for analysis. Interestingly, there are also spikes in fatalities in 2013 and during the pandemic years, particularly between 2021 and 2023, despite the fact that the total number of accidents was significantly lower during that period. In 2024, fatalities drop slightly, but the decrease is minimal. 
 
 This mismatch between accident frequency and fatal outcomes suggests that fewer accidents don’t necessarily means safer roads. It raises important questions: Could it be due to the severity of crashes? Changes in driver behavior, or even factors like vehicle design, road infrastructure or emergency response times? While 2017 had the highest number of accidents and remains a data-rich year, the lack of direct correlation between accident volume and fatalities hint a deeper, more complex causes to explore. 
