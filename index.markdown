@@ -30,7 +30,9 @@ subtitle:  Exploring the Link Between Weather and Traffic Accidents: A Data-Driv
 </style>
 <div class="intro">
   </div>
+
 ---
+Hello :)
 On a cold January morning in New York City, a pedestrian crosses the street in Brooklyn. A few hours later, a cyclist is hit in Queens. By the time the day ends, hundreds of crashes have occurred across the five boroughs, just another day in the city that never sleeps.
 Traffic accidents are a part of daily life in NYC. But how often do they really happen? And do certain conditions, like the time of day or the weather, make them more likely?
 In this story, we dive into real-world data from 2017 to uncover the hidden patterns behind the chaos. We’ll look at:
