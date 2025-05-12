@@ -51,9 +51,9 @@ What stands out is the consistency of this hourly pattern across all boroughs, s
 
 Additionally, the unexpected spike around 9 PM could be linked to post-dinner activities, outings, events or nighttime driving routines. Insights like these are valuable for resource planning and public safety strategies, such as increasing patrol presence during high-risk hours or launching targeted awareness campaigns during the evening peak. 
 
-In terms of the weather:
+## A Year of Weather in NYC: Setting the Scene for Traffic Analysis
 
-The climate in New York throughout 2017 shows clear seasonal variation. Temperatures are highest from June to September, with July and August reaching peak averages of 25.1ºC and 24.5ºC, respectively. On the other end, the coldest months fall between December and March, with January averaging as low as 0.5ºC. The transitional months, April, May, October and November, present moderate temperatures. 
+The climate in New York throughout 2017 and 2018 shows clear seasonal variation. Temperatures are highest from June to September, with July and August reaching peak averages of 25.1ºC and 24.5ºC, respectively. On the other end, the coldest months fall between December and March, with January averaging as low as 0.5ºC. The transitional months, April, May, October and November, present moderate temperatures. 
 
 In terms of precipitation, March stands out as the month with most snow, followed by January and February, making the core of winter. There’s also a peak in snowfall in November and December, indicating the onset of colder conditions. During the summer months and the months prior and after it, snowfall drops to zero. 
 When it comes to rainfall, July and August are the rainiest months alongside May, which also sees a high level of precipitation. Interestingly, June is one of the driest months, just before precipitation peaks in midsummer. Overall, NYC experiences a full range of weather conditions throughout the year, making it an ideal setting to explore how temperature and precipitation may impact traffic accidents. 
