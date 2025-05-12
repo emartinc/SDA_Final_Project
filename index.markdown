@@ -5,6 +5,7 @@
 layout: home
 title: Is It Just Bad Driving - or is the Weather to Blame?
 subtitle:  Exploring the Link Between Weather and Traffic Accidents: A Data-Driven Study in NYC
+
 ---
 <style>
   h1, h2, h3 {
