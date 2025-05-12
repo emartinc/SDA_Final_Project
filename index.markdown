@@ -24,7 +24,7 @@ When looking at traffic accidents by year, 2017 clearly stands out as the peak, 
 ## A Curious Disconnect: Fewer Accidents, More Fatalities?
 
 <figure class="figure-wrapper">
-  <iframe src="{{ site.baseurl }}/assets/images/deaths_per_year.html" width="1000" height="800" frameborder="0"></iframe>
+  <iframe src="{{ site.baseurl }}/assets/images/deaths_per_year.html" width="100%" height="500" frameborder="0"></iframe>
   <figcaption class="figure-caption">Figure 2: Fatalities per year (2012 - 2024)</figcaption>
 </figure>
 
