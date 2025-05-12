@@ -30,9 +30,10 @@ subtitle:  Exploring the Link Between Weather and Traffic Accidents: A Data-Driv
   }
 </style>
 
-  <head>
-    <title>Is It Just Bad Driving - or is the Weather to Blame</title>
-  </head>
+<div class="page-header">
+  <h1>{{ page.title }}</h1>
+  <h2>{{ page.subtitle }}</h2>
+</div>
 
 Every year, an estimated 1.19 million people lose their lies in road traffic accidents, while another 20 to 50 million suffer non-fatal injuries. Many of them resulting in long-term disabilities. From a young age, we’re taught the golden rules of safe driving: don’t drink and drive, obey speed limits and avoid getting behind the wheel during bad weather. But how much truth is there to that las piece of advice? Is it really unsafe to drive in the rain or snow, or do we just assume it is? And when an accident happen, who or what is truly at fault? Is it human error: speeding, distraction, poor decisions, bad infrastructures, or does the weather itself play a more significant role than we thing. In what ways does weather influence traffic accidents.
 
