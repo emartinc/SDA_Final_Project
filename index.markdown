@@ -20,6 +20,11 @@ To explore these questions, we’ll take a closer look at traffic accidents in N
 </figure>
 
 When looking at traffic accidents by year, 2017 clearly stands out as the peak, recording the highest number of incidents. From 2012 to 2017, the number of traffic accidents increased, with its highest poing in 2017. After that peak, the numbers begin to decline, with a small  drop in 2018 and 2019. Then, in 2020 there is a noticeable decrease, like influenced by the COVID-19 pandemic and related lockdowns, which heavily influenced urban mobility, prob. From 2021 to 2024, accident numbers continued to fall, though at a more stable rate, reaching similar levels to 2012. The change of traffic accidents from 2021 to 2024 is probably influenced by commuting behavior, remote work, and fewer vehicles on the road due to the pandemic. 
+## Traffic fatalities
+When looking at traffic fatalities by year, 2017 stands out with a notably high number of deaths, reinforcing its relevance as a key year for analysis. Interestingly, there are also spikes in fatalities in 2013 and during the pandemic years, particularly between 2021 and 2023, despite the fact that the total number of accidents was significantly lower during that period. In 2024, fatalities drop slightly, but the decrease is minimal. 
+
+This mismatch between accident frequency and fatal outcomes suggests that fewer accidents don’t necessarily means safer roads. It raises important questions: Could it be due to the severity of crashes? Changes in driver behavior, or even factors like vehicle design, road infrastructure or emergency response times? While 2017 had the highest number of accidents and remains a data-rich year, the lack of direct correlation between accident volume and fatalities hint a deeper, more complex causes to explore. 
+
 
 ## Accidents per borough -- Borough Breakdown: Who's at Higher Risk?
 
