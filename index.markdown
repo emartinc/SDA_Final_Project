@@ -56,6 +56,11 @@ In contrast, Staten Island and the Bronx recorded significantly fewer accidents,
 
 ## When Accidents Happen: Analyzing Hourly Trends in Traffic Accidents.
 
+<figure class="figure-wrapper">
+  <iframe src="{{ site.baseurl }}/assets/images/accidents_by_hour_polar.html" width="100%" height="500" frameborder="0"></iframe>
+  <figcaption class="figure-caption">Figure 2: Fatalities per year (2012 - 2024)</figcaption>
+</figure>
+
 When analyzing traffic accidents by hour of the day across NYC boroughs: Bronx, Brooklyn, Manhattan, Queens and Staten Island, a consistent daily pattern emerges. Accidents are most frequent between noon and 6 PM, likely reflecting the combined effects of midday traffic and afternoon rush hour. After 6 PM there a slight dip, but interestingly, a noticeable spike occurs again around 9 PM. Following that, the number of accidents drops significantly between 10 PM and 5 AM, where the road activity is generally lower. At 6 AM, there is a noticeable spike, possibly linked to early commuters, though the pattern briefly dips again at 7AM before rising once more as the day progresses. 
 
 Several interesing patterns emerge from this graph. The notable peak around 3 PM and 4 PM may correspond to school dismissals and afternoon traffic congestion. On the other hand, the lowest number of incidents occurs between 1 AM and 5 AM, likely due to minimal traffic volume. However, the accidents that do happen during these hours could be related to driver fatigue, alcohol consumption or poor visibility. This suggests that while collisions are less frequent overnight, they may be more severe or fatal due to the risky conditions in which they happen since alcohol consumption is one of the main causes of traffic fatalities [1].
