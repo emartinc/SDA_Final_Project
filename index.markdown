@@ -3,8 +3,8 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: How Safe Are NYC Streets?
-subtitle: A Data Story of Traffic and Weather in NYC
+title: Is It Just Bad Driving - or is the Weather to Blame?
+subtitle:  Exploring the Link Between Weather and Traffic Accidents: A Data-Driven Study in NYC
 ---
 <style>
   h1, h2, h3 {
