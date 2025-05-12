@@ -30,4 +30,3 @@ subtitle: A Data Story of Traffic and Weather in NYC
 </style>
 <div class="intro">
   </div>
-</div>
