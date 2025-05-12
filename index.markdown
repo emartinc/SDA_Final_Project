@@ -30,13 +30,9 @@ subtitle:  Exploring the Link Between Weather and Traffic Accidents: A Data-Driv
   }
 </style>
 
-<div class="page-header">
-  <h1>{{ page.title }}</h1>
-  <h2>{{ page.subtitle }}</h2>
-</div>
 
 <figure class="figure-wrapper">
-  <img src="/assets/images/accidents_per_year.png" alt="Accidents Per Year">
+  <img src=".../assets/images/accidents_per_year.png" alt="Accidents Per Year">
   <figcaption class="figure-caption">Figure 1: Accidents per year</figcaption>
 </figure>
 
