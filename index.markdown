@@ -7,7 +7,7 @@ title: Is It Just Bad Driving - or is the Weather to Blame?
 subtitle:  Exploring the Link Between Weather and Traffic Accidents: A Data-Driven Study in NYC
 
 ---
-<style>
+%<style>
   h1, h2, h3 {
     color: #2c3e50;
   }
