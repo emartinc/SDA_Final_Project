@@ -36,7 +36,7 @@ Every year, an estimated 1.19 million people lose their lies in road traffic acc
 To explore these questions, we’ll take a closer look at traffic accidents in New York City and their relationship with weather conditions. The goal is to understand whether these incidents are primarily dirven by human factors or significantly influenced by external forces like the weather. New York is an ideal case study. It experiences a wide range of weather conditions, from heavy snowfall in winter to hot, humid summers. Combined with its dense population and fast-paced urban life, the city provides a rich dataset that allows us to examine both environmental and human variables in a complex, high-pressure setting. Its chaotic and highly populated nature makes it the pefect environment to observe how weather and human behavior intersect on the road. 
 
 <figure class="figure-wrapper">
-  <img src="/assets/accidents_per_year.png" alt="Accidents Per Year">
+  <img src="/assets/images/accidents_per_year.png" alt="Accidents Per Year">
   <figcaption class="figure-caption">Figure 1: Accidents per year</figcaption>
 </figure>
 
