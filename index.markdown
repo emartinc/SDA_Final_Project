@@ -51,7 +51,7 @@ In contrast, Staten Island and the Bronx recorded significantly fewer accidents,
 ## When Accidents Happen: Analyzing Hourly Trends in Traffic Accidents.
 
 <figure class="figure-wrapper">
-  <iframe src="{{ site.baseurl }}/assets/images/accidents_by_hour_polar.html" width="120%" height="750" frameborder="0"></iframe>
+  <iframe src="{{ site.baseurl }}/assets/images/accidents_by_hour_polar.html" width="120%" height="730" frameborder="0"></iframe>
   <figcaption class="figure-caption">Figure 4: Accidents per hour of the day (2017)</figcaption>
 </figure>
 
