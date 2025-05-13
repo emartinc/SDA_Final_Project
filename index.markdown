@@ -91,12 +91,13 @@ When it comes to rainfall, July and August are the rainiest months alongside May
 ## Uncovering the Truth: What Effect Does Weather Have On Traffic Accidents?  
 The relationship between weather conditions and traffic accidents in New York during 2017 does not reveal any strong or direct correlations. While it is common to assume that poor weather increases the likelihood of accidents, the data suggests a complex reality influenced by seasonal patterns and human behavior. 
 
-In terms of temperature, there is no clear link between warmer and colder months and the number of accidents. Although the highest temperatures occur in July and August, accident rates are relatively low during these months. In contrast, May and June, which mark the start of the warmer season, show the highest accident rates. This might be due to increase activity or traffic density before summer holidays begin, but overall, temperature alone does not appear to be a strong predictor of accidents. 
-
 <figure class="figure-wrapper">
   <img src="{{ site.baseurl }}/assets/images/comparison.png" alt="Accidents Per Year">
   <figcaption class="figure-caption">Figure 7: .</figcaption>
 </figure>
+
+In terms of temperature, there is no clear link between warmer and colder months and the number of accidents. Although the highest temperatures occur in July and August, accident rates are relatively low during these months. In contrast, May and June, which mark the start of the warmer season, show the highest accident rates. This might be due to increase activity or traffic density before summer holidays begin, but overall, temperature alone does not appear to be a strong predictor of accidents. 
+
 
 Regarding precipitation, there is some alignment during the early months of the year. February, March and April have their levels of precipitation matching  with the number of accidents. However, this pattern does not hold throughout the year. For example, July, one of the driest months, still shows elevated accident levels, suggesting that rainfall may influence risk, but only in combination with other factors. 
 
