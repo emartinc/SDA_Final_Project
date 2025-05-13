@@ -26,7 +26,7 @@ When looking at traffic accidents by year, 2017 clearly stands out as the peak, 
 ## A Curious Disconnect: Fewer Accidents, More Fatalities?
 
 <figure class="figure-wrapper">
-  <iframe src="{{ site.baseurl }}/assets/images/deaths_per_year.html" width="100%" height="500" frameborder="0"></iframe>
+  <iframe src="{{ site.baseurl }}/assets/images/deaths_per_year.html" width="100" height="500" frameborder="0"></iframe>
   <figcaption class="figure-caption">Figure 2: Fatalities per year (2012 - 2024)</figcaption>
 </figure>
 
@@ -42,7 +42,7 @@ To better understand where accidents are most concentrated within the city, we t
 <figure class="figure-wrapper" style="text-align: center;">
   <iframe 
     src="{{ site.baseurl }}/assets/images/accidents_borough1.html" 
-    width="100%" 
+    width="100" 
     height="600" 
     style="border: none; display: inline-block; margin: 0 auto;">
   </iframe>
@@ -59,7 +59,7 @@ In contrast, Staten Island and the Bronx recorded significantly fewer accidents,
 ## When Accidents Happen: Analyzing Hourly Trends in Traffic Accidents.
 
 <figure class="figure-wrapper">
-  <iframe src="{{ site.baseurl }}/assets/images/accidents_by_hour_polar.html" width="100%" height="800" frameborder="0"></iframe>
+  <iframe src="{{ site.baseurl }}/assets/images/accidents_by_hour_polar.html" width="100" height="800" frameborder="0"></iframe>
   <figcaption class="figure-caption">Figure 4: Accidents per hour of the day, year 2017</figcaption>
 </figure>
 
