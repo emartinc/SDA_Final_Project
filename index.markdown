@@ -26,7 +26,7 @@ When looking at traffic accidents by year, 2017 clearly stands out as the peak, 
 ## A Curious Disconnect: Fewer Accidents, More Fatalities?
 
 <figure class="figure-wrapper">
-  <iframe src="{{ site.baseurl }}/assets/images/deaths_per_year.html" width="100%" height="500" frameborder="0"></iframe>
+  <iframe src="{{ site.baseurl }}/assets/images/deaths_per_year.html" width="120%" height="500" frameborder="0"></iframe>
   <figcaption class="figure-caption">Figure 2: Fatalities per year (2012 - 2024)</figcaption>
 </figure>
 
@@ -51,8 +51,8 @@ In contrast, Staten Island and the Bronx recorded significantly fewer accidents,
 ## When Accidents Happen: Analyzing Hourly Trends in Traffic Accidents.
 
 <figure class="figure-wrapper">
-  <iframe src="{{ site.baseurl }}/assets/images/accidents_by_hour_polar.html" width="100%" height="800" frameborder="0"></iframe>
-  <figcaption class="figure-caption">Figure 4: Accidents per hour of the day, year 2017</figcaption>
+  <iframe src="{{ site.baseurl }}/assets/images/accidents_by_hour_polar.html" width="120%" height="800" frameborder="0"></iframe>
+  <figcaption class="figure-caption">Figure 4: Accidents per hour of the day (2017)</figcaption>
 </figure>
 
 When analyzing traffic accidents by hour of the day across NYC boroughs: Bronx, Brooklyn, Manhattan, Queens and Staten Island, a consistent daily pattern emerges. Accidents are most frequent between noon and 6 PM, likely reflecting the combined effects of midday traffic and afternoon rush hour. After 6 PM there a slight dip, but interestingly, a noticeable spike occurs again around 9 PM. Following that, the number of accidents drops significantly between 10 PM and 5 AM, where the road activity is generally lower. At 6 AM, there is a noticeable spike, possibly linked to early commuters, though the pattern briefly dips again at 7AM before rising once more as the day progresses. 
@@ -67,14 +67,14 @@ Additionally, the unexpected spike around 9 PM could be linked to post-dinner ac
 
 <figure class="figure-wrapper">
   <img src="{{ site.baseurl }}/assets/images/average_temp_month.png" alt="Accidents Per Year">
-  <figcaption class="figure-caption">Figure 5: .</figcaption>
+  <figcaption class="figure-caption">Figure 5: New York monthly average temperature (2017)</figcaption>
 </figure>
 
 The climate in New York throughout 2017 and 2018 shows clear seasonal variation. Temperatures are highest from June to September, with July and August reaching peak averages of 25.1ºC and 24.5ºC, respectively. On the other end, the coldest months fall between December and March, with January averaging as low as 0.5ºC. The transitional months, April, May, October and November, present moderate temperatures. 
 
 <figure class="figure-wrapper">
   <img src="{{ site.baseurl }}/assets/images/precipitation_month.png" alt="Accidents Per Year">
-  <figcaption class="figure-caption">Figure 6: .</figcaption>
+  <figcaption class="figure-caption">Figure 6: New York monthly average precipitations (rain and snow) (2017)</figcaption>
 </figure>
 
 In terms of precipitation, March stands out as the month with most snow, followed by January and February, making the core of winter. There’s also a peak in snowfall in November and December, indicating the onset of colder conditions. During the summer months and the months prior and after it, snowfall drops to zero. 
@@ -85,7 +85,7 @@ The relationship between weather conditions and traffic accidents in New York du
 
 <figure class="figure-wrapper">
   <img src="{{ site.baseurl }}/assets/images/comparison.png" alt="Accidents Per Year">
-  <figcaption class="figure-caption">Figure 7: .</figcaption>
+  <figcaption class="figure-caption">Figure 7: Comparison: New York Monthly Weather Variables vs. Accidents (2017)</figcaption>
 </figure>
 
 In terms of temperature, there is no clear link between warmer and colder months and the number of accidents. Although the highest temperatures occur in July and August, accident rates are relatively low during these months. In contrast, May and June, which mark the start of the warmer season, show the highest accident rates. This might be due to increase activity or traffic density before summer holidays begin, but overall, temperature alone does not appear to be a strong predictor of accidents. 
