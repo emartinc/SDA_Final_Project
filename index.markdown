@@ -45,7 +45,7 @@ To better understand where accidents are most concentrated within the city, we t
   width="100%" 
   height="650" 
   frameborder="0""></iframe>
-  <figcaption class="figure-caption">Figure 3:Accidents  </figcaption>
+  <figcaption class="figure-caption">Figure 3:Accidents</figcaption>
 </figure>
 
 
