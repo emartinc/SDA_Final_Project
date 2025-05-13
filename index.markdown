@@ -40,7 +40,7 @@ This mismatch between accident frequency and fatal outcomes suggests that fewer 
 To better understand where accidents are most concentrated within the city, we turn to a borough-level analysis for the years 2017–2018. The spatial distribution of incidents reveals striking differences across New York’s five boroughs, shedding light on how geography, infrastructure, and population dynamics shape road safety.
 
 <figure class="figure-wrapper">
-  <iframe src="{{ site.baseurl }}/assets/images/accidents_borough.html" width="150%" height="650" frameborder="0"></iframe>
+  <iframe src="{{ site.baseurl }}/assets/images/accidents_borough.html" width="150%" height="660" frameborder="0"></iframe>
   <figcaption class="figure-caption">Figure 3:New York Accidents per Borough (2017-2018) </figcaption>
 </figure>
 
@@ -51,7 +51,7 @@ In contrast, Staten Island and the Bronx recorded significantly fewer accidents,
 ## When Accidents Happen: Analyzing Hourly Trends in Traffic Accidents.
 
 <figure class="figure-wrapper">
-  <iframe src="{{ site.baseurl }}/assets/images/accidents_by_hour_polar.html" width="120%" height="760" frameborder="0"></iframe>
+  <iframe src="{{ site.baseurl }}/assets/images/accidents_by_hour_polar.html" width="120%" height="750" frameborder="0"></iframe>
   <figcaption class="figure-caption">Figure 4: Accidents per hour of the day (2017)</figcaption>
 </figure>
 
