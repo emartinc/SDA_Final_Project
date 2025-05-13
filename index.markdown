@@ -18,7 +18,7 @@ To explore these questions, we’ll take a closer look at traffic accidents in N
 
 <figure class="figure-wrapper">
   <img src="{{ site.baseurl }}/assets/images/accidents_per_year.png" alt="Accidents Per Year">
-  <figcaption class="figure-caption">Figure 1: Traffic Accidents per year spanning from 2012 to 2024.</figcaption>
+  <figcaption class="figure-caption">Figure 1: Traffic Accidents per year (2012-2024)</figcaption>
 </figure>
 
 When looking at traffic accidents by year, 2017 clearly stands out as the peak, recording the highest number of incidents. From 2012 to 2017, the number of traffic accidents increased, with its highest point in 2017. After that peak, the numbers begin to decline, with a small  drop in 2018 and 2019. Then, in 2020 there is a noticeable decrease, likely influenced by the COVID-19 pandemic and related lockdowns, which heavily influenced urban mobility. From 2021 to 2024, accident numbers continued to fall, though at a more stable rate, reaching similar levels to 2012. The change of traffic accidents from 2021 to 2024 is probably influenced by commuting behavior, remote work, and fewer vehicles on the road due to the pandemic. 
@@ -26,8 +26,8 @@ When looking at traffic accidents by year, 2017 clearly stands out as the peak, 
 ## A Curious Disconnect: Fewer Accidents, More Fatalities?
 
 <figure class="figure-wrapper">
-  <iframe src="{{ site.baseurl }}/assets/images/deaths_per_year.html" width="120%" height="500" frameborder="0"></iframe>
-  <figcaption class="figure-caption">Figure 2: Fatalities per year (2012 - 2024)</figcaption>
+  <iframe src="{{ site.baseurl }}/assets/images/deaths_per_year.html" width="120%" height="510" frameborder="0"></iframe>
+  <figcaption class="figure-caption">Figure 2: Fatalities per year (2012-2024)</figcaption>
 </figure>
 
 When looking at traffic fatalities by year, 2017 stands out with a notably high number of deaths, reinforcing its relevance as a key year for analysis. Interestingly, there are also spikes in fatalities in 2013 and during the pandemic years, particularly between 2021 and 2023, despite the fact that the total number of accidents was significantly lower during that period. In 2024, fatalities drop slightly, but the decrease is minimal. 
@@ -41,7 +41,7 @@ To better understand where accidents are most concentrated within the city, we t
 
 <figure class="figure-wrapper">
   <iframe src="{{ site.baseurl }}/assets/images/accidents_borough.html" width="150%" height="650" frameborder="0"></iframe>
-  <figcaption class="figure-caption">Figure 3:New York Accidents per Borough, 2017-2018 </figcaption>
+  <figcaption class="figure-caption">Figure 3:New York Accidents per Borough (2017-2018) </figcaption>
 </figure>
 
 The map presents a clear spatial distribution of traffic accidents across New York City's boroughs between 2017 and 2018. Unsurprisingly, Brooklyn and Queens exhibit the darkest shades, indicating the highest number of traffic accidents, likely reflecting their larger populations, greater roadway networks, and high vehicle ownership. Despite its smaller size, Manhattan also shows a high accident count, possibly due to dense traffic volumes, tourism, and a high rate of pedestrian activity.
@@ -51,7 +51,7 @@ In contrast, Staten Island and the Bronx recorded significantly fewer accidents,
 ## When Accidents Happen: Analyzing Hourly Trends in Traffic Accidents.
 
 <figure class="figure-wrapper">
-  <iframe src="{{ site.baseurl }}/assets/images/accidents_by_hour_polar.html" width="120%" height="800" frameborder="0"></iframe>
+  <iframe src="{{ site.baseurl }}/assets/images/accidents_by_hour_polar.html" width="120%" height="770" frameborder="0"></iframe>
   <figcaption class="figure-caption">Figure 4: Accidents per hour of the day (2017)</figcaption>
 </figure>
 
