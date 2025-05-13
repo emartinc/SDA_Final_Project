@@ -39,8 +39,9 @@ This mismatch between accident frequency and fatal outcomes suggests that fewer 
 
 To better understand where accidents are most concentrated within the city, we turn to a borough-level analysis for the years 2017–2018. The spatial distribution of incidents reveals striking differences across New York’s five boroughs, shedding light on how geography, infrastructure, and population dynamics shape road safety.
 
-<iframe 
-  src="{{ site.baseurl }}/assets/images/accidents_borough3.html" 
+<figure class="figure-wrapper">
+  <iframe 
+  src="{{ site.baseurl }}/assets/images/accidents_borough_fixed.html" 
   width="100%" 
   height="650" 
   style="border:none; display:block; margin:0 auto;">
