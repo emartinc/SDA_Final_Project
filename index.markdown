@@ -115,5 +115,9 @@ One valuable direction for future research could involve analyzing the impact of
 
 Another promising avenue could involve combining behavioral data with perception-based variables, such as how drivers interpret weather conditions and adjust their behavior accordingly. Exploring the intersection of data and human perception could provide deeper insights on how subjective experience influences risk on the road. 
 
+# Bibliography: 
+
+[1] - World Health Organization. "Road Traffic Injuries." World Health Organization, 13 Dec. 2023, https://www.who.int/news-room/fact-sheets/detail/road-traffic-injuries.
+
 
 ---
