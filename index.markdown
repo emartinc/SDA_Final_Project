@@ -39,17 +39,12 @@ This mismatch between accident frequency and fatal outcomes suggests that fewer 
 
 To better understand where accidents are most concentrated within the city, we turn to a borough-level analysis for the years 2017–2018. The spatial distribution of incidents reveals striking differences across New York’s five boroughs, shedding light on how geography, infrastructure, and population dynamics shape road safety.
 
-<figure class="figure-wrapper" style="text-align: center;">
-  <iframe 
-    src="{{ site.baseurl }}/assets/images/accidents_borough1.html" 
-    width="100" 
-    height="600" 
-    style="border: none; display: inline-block; margin: 0 auto;">
-  </iframe>
-  <figcaption class="figure-caption" style="text-align: center;">
-    Figure 3: Number of Traffic Accidents by NY Borough (2017–2018)
-  </figcaption>
-</figure>
+<iframe 
+  src="{{ site.baseurl }}/assets/images/accidents_borough3.html" 
+  width="100%" 
+  height="650" 
+  style="border:none; display:block; margin:0 auto;">
+</iframe>
 
 
 The map presents a clear spatial distribution of traffic accidents across New York City's boroughs between 2017 and 2018. Unsurprisingly, Brooklyn and Queens exhibit the darkest shades, indicating the highest number of traffic accidents, likely reflecting their larger populations, greater roadway networks, and high vehicle ownership. Despite its smaller size, Manhattan also shows a high accident count, possibly due to dense traffic volumes, tourism, and a high rate of pedestrian activity.
