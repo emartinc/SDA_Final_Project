@@ -21,7 +21,7 @@ To explore these questions, we’ll take a closer look at traffic accidents in N
   <figcaption class="figure-caption">Figure 1: Traffic Accidents per year spanning from 2012 to 2024.</figcaption>
 </figure>
 
-When looking at traffic accidents by year, 2017 clearly stands out as the peak, recording the highest number of incidents. From 2012 to 2017, the number of traffic accidents increased, with its highest point in 2017. After that peak, the numbers begin to decline, with a small  drop in 2018 and 2019. Then, in 2020 there is a noticeable decrease, like influenced by the COVID-19 pandemic and related lockdowns, which heavily influenced urban mobility, prob. From 2021 to 2024, accident numbers continued to fall, though at a more stable rate, reaching similar levels to 2012. The change of traffic accidents from 2021 to 2024 is probably influenced by commuting behavior, remote work, and fewer vehicles on the road due to the pandemic. 
+When looking at traffic accidents by year, 2017 clearly stands out as the peak, recording the highest number of incidents. From 2012 to 2017, the number of traffic accidents increased, with its highest point in 2017. After that peak, the numbers begin to decline, with a small  drop in 2018 and 2019. Then, in 2020 there is a noticeable decrease, likely influenced by the COVID-19 pandemic and related lockdowns, which heavily influenced urban mobility, prob. From 2021 to 2024, accident numbers continued to fall, though at a more stable rate, reaching similar levels to 2012. The change of traffic accidents from 2021 to 2024 is probably influenced by commuting behavior, remote work, and fewer vehicles on the road due to the pandemic. 
 
 ## A Curious Disconnect: Fewer Accidents, More Fatalities?
 
@@ -54,7 +54,7 @@ To better understand where accidents are most concentrated within the city, we t
 
 The map presents a clear spatial distribution of traffic accidents across New York City's boroughs between 2017 and 2018. Unsurprisingly, Brooklyn and Queens exhibit the darkest shades, indicating the highest number of traffic accidents, likely reflecting their larger populations, greater roadway networks, and high vehicle ownership. Despite its smaller size, Manhattan also shows a high accident count, possibly due to dense traffic volumes, tourism, and a high rate of pedestrian activity.
 
-In contrast, Staten Island and the Bronx recorded significantly fewer accidents, with Staten Island having the lowest count, consistent with its lower population density and more suburban layout.This geographical trend underscores how urban density, transportation habits, and borough-specific infrastructure can influence traffic safety outcomes.
+In contrast, Staten Island and the Bronx recorded significantly fewer accidents, with Staten Island having the lowest count, consistent with its lower population density and more suburban layout. This geographical trend underscores how urban density, transportation habits, and borough-specific infrastructure can influence traffic safety outcomes.
 
 ## When Accidents Happen: Analyzing Hourly Trends in Traffic Accidents.
 
